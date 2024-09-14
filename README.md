@@ -1,2 +1,2 @@
 # NewRep
-This repositiory contains ....
+This repositiory contains solutions for various Leetcode Problems.
